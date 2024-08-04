@@ -1,0 +1,9 @@
+
+on property:sys.boot_completed=1
+    start vendor.datacenter
+
+service vendor.datacenter /vendor/bin/hw/trandatacenter
+    class core
+    user system
+    group system
+    disabled

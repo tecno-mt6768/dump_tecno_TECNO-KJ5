@@ -1,0 +1,20 @@
+## sys_tssi_64_tecno-user 13 TP1A.220624.014 629930 release-keys
+- Manufacturer: tecno
+- Platform: mt6768
+- Codename: TECNO-KJ5
+- Brand: TECNO
+- Flavor: sys_tssi_64_tecno-user
+- Release Version: 13
+- Kernel Version: 4.19.191
+- Id: TP1A.220624.014
+- Incremental: 240607V1438
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: TECNO/KJ5-OP/TECNO-KJ5:12/SP1A.210812.016/240607V1280:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_tecno-user-13-TP1A.220624.014-629930-release-keys
+- Repo: tecno_tecno-kj5_dump

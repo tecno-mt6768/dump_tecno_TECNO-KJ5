@@ -1,0 +1,13 @@
+<trans_sched.config version="1.0" encoding="UTF-8" enable="true">
+<!-- "enable" represents trans_sched state, true:on false:off -->
+    <uxtag  default="UX_TASK_LIGHT0" uxtag_nr="0">
+    <!-- "default" represents default uxtag when a task don't configure uxtag; "uxtag_nr" represents follow items number，must be equal to the number of items below-->
+        <!--<instance name="com.transsion.deskclock" value="UX_TASK_HEAVY0"/> -->
+        <!-- "name" represents task name; "value" represents uxtag-->
+    </uxtag>
+    <blacklist black_nr="0">
+    <!-- "black_nr" represents follow items number，must be equal to the number of items below-->
+        <!--<instance name="com.tencent.ig"/> -->
+        <!-- "name" represents black name who is not set uxtag-->
+    </blacklist>
+</trans_sched.config>
